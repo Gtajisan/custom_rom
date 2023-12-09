@@ -67,9 +67,9 @@ Enter the TWRP file if you want to install TWRP into the TWRP folder<br>Enter th
 
 ### Information
 Confused? please contact me
-- Facebook : http://fb.me/yovtrash
-- Telegram : http://t.me/yovtrash
-- WhatsApp : http://wa.me/6283841365567
-### Donate
-- Paypal : https://paypal.me/leemrtnzz
-- Telp : +6283841365567
+- Facebook : http://fb.me/fahanmuhtasim
+- Telegram : https://t.me/farhan_muh_tasim
+- WhatsApp : http://wa.me/+8801305057238
+### Donate🤣
+- recharge : +8801305057238
+- Telp : +8801305057238
