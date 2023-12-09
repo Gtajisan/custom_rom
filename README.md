@@ -41,7 +41,7 @@ Clone this project must be in the flash folder that has been created or you can 
 
 ```bash
  git clone https://github.com/Gtajisan/custom_rom
- cd FFM
+ cd custom_rom
  sudo python2 flash.py
  use option "[4] Install ADB & FASTBOOT" //just write down the number
 ```
