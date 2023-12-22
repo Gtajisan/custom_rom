@@ -45,6 +45,11 @@ Clone this project must be in the flash folder that has been created or you can 
  python2 flash.py
  use option "[4] Install ADB & FASTBOOT" //just write down the number
 ```
+**unstall**
+```
+rm -rf custom_rom
+```
+
 
 ### Usage
 Run the Fastboot Flasher Mobile
