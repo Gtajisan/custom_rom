@@ -26,14 +26,14 @@ banner =(G+" d88888b d88888b .88b  d88. \n 88'     88'     88'YbdP`88  "+R+"- Fa
 def port():
 	print ("\x1bc")
 	print (R+"-----------------------------")
-	print (G+"[!] Cek Devices")
+	print (G+"[!] Check  Devices")
 	print (R+"-----------------------------\n")
 	os.system("fastboot devices")
 	print (R+"\n-----------------------------\n")
 def twrp():
 	try:
 		print (G+"[+] Installing TWRP...")
-		namaF = raw_input("Masukan nama file : ")
+		namaF = raw_input("Input name file : ")
 		os.system("fastboot flash recovery TWRP/"+namaF)
 		if (not os.path.isfile(namaF)):
 			print (R+"[!] Failed to install TWRP\n")
