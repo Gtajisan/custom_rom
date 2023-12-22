@@ -50,14 +50,14 @@ Clone this project must be in the flash folder that has been created or you can 
 Run the Fastboot Flasher Mobile
 
 ```bash
- python2 flash.py
+cd custom_rom && python2 flash.py
 ```
-Enter the TWRP file if you want to install TWRP into the TWRP folder<br>Enter the ROM file if you want to flashing ROM into the ROM folder
+Enter the TWRP / orange fox file if you want to install TWRP into the TWRP folder<br>Enter the ROM file if you want to flashing ROM into the ROM folder
 
 ---
 
 ### Features
-- Install TWRP
+- Install TWRP / orange fox
 - Install ROM
 - Install ADB & FASTBOOT
 - Reset
