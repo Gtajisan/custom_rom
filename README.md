@@ -42,7 +42,7 @@ Clone this project must be in the flash folder that has been created or you can 
 ```bash
  git clone https://github.com/Gtajisan/custom_rom
  cd custom_rom
- sudo python2 flash.py
+ python2 flash.py
  use option "[4] Install ADB & FASTBOOT" //just write down the number
 ```
 
@@ -50,7 +50,7 @@ Clone this project must be in the flash folder that has been created or you can 
 Run the Fastboot Flasher Mobile
 
 ```bash
- sudo python2 flash.py
+ python2 flash.py
 ```
 Enter the TWRP file if you want to install TWRP into the TWRP folder<br>Enter the ROM file if you want to flashing ROM into the ROM folder
 
