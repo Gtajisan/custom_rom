@@ -36,14 +36,14 @@ def twrp():
 		namaF = raw_input("Input name file : ")
 		os.system("fastboot flash recovery TWRP/"+namaF)
 		if (not os.path.isfile(namaF)):
-			print (R+"[!] Failed to install TWRP\n")
+			print (R+"[!] Failed to install TWRP/ORF\n")
 		else:
-		    print (G+"[+] Successfully installed TWRP")
+		    print (G+"[+] Successfully installed TWRP/ORF")
 		    sleep(3)
 		    print (G+"[!] Rebooting...")
 		    os.system("fastboot reboot")
 	except :
-		print (R+"\n[!] Failed to install TWRP\n")
+		print (R+"\n[!] Failed to install TWRP/ORF\n")
 def flash():
 	try:
 		print (R+"------------------------")
@@ -245,7 +245,7 @@ def menu():
 		print (banner)
 		print (R+"--------"+G+"| {}/{}/{} |"+R+"--------").format(hari,bulan,tahun)
 		print ("")
-		print (G+"[1] Check Device        [5] TWRP")
+		print (G+"[1] Check Device        [5] TWRP/ORANG FOX")
 		print (G+"[2] Check & Lock OEM    [6] Reset")
 		print (G+"[3] Flash ROM           [7] Splash")
 		print (G+"[4] Install ADB         [8] About Tool")
